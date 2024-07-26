@@ -1,0 +1,40 @@
+.footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 10px;
+  margin-top: auto;
+}
+
+.content {
+  margin-bottom: 20px;
+}
+
+.socialMedia {
+  margin-bottom: 10px;
+}
+
+.iconLink {
+  color: #fff;
+  margin: 0 10px;
+  font-size: 24px;
+  transition: color 0.3s ease;
+}
+
+.iconLink:hover {
+  color: #4caf50;
+}
+
+.icon {
+  margin-right: 8px;
+}
+
+.text {
+  margin: 0;
+  font-size: 16px;
+}
+
+.copyRight {
+  font-size: 14px;
+  margin-top: 10px;
+}
